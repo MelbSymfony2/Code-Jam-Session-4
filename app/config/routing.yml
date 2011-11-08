@@ -1,0 +1,4 @@
+MelbSymfony2CodeJam4Bundle:
+    resource: "@MelbSymfony2CodeJam4Bundle/Controller/"
+    type:     annotation
+    prefix:   /
